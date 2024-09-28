@@ -1,18 +1,19 @@
-Project Template description:
+## Project Template description:
+
 This template outlines the creation of an elegant and user-friendly website for a fine dining restaurant. The website aims to showcase the restaurant's unique culinary offerings, ambiance, and commitment to quality, ultimately driving reservations and enhancing customer engagement.
 
-Attributions:
+## Attributions:
 
-Images
+### Images
 
 - [Adoble Stock photos](https://stock.adobe.com/ch_fr/images/dine-in-style-tables-ready-at-a-large-luxury-restaurant-with-modern-ambiance-generative-ai/577473737)
 
-Research and Content
+### Research and Content
 
 - Chat GBT
 - Google
 
-Instructions on how to contribute to the project:
+### Instructions on how to contribute to the project:
 
 1. Understand the Project
 
@@ -57,3 +58,39 @@ Instructions on how to contribute to the project:
 - You should see a prompt to create a pull request for your recently pushed branch. Click on it.
 - Fill out the pull request template, providing a detailed description of your changes.
 - Submit the pull request.
+
+## Setup Instructions
+
+This section provides detailed steps on how to install and configure the project.
+
+### How to Git Clone:
+
+To clone a repository using Git, you can follow these steps:
+
+1. Install Git: Make sure you have Git installed on your machine. You can check this by running git --version in your terminal. If it's not installed, you can download it from git-scm.com.
+
+2. Find the Repository URL: Navigate to the GitHub (or other Git hosting service) page of the repository you want to clone. Click on the green "Code" button and copy the URL (you can choose between HTTPS or SSH).
+
+3. Open Your Terminal: Open a terminal or command prompt on your computer.
+
+4. Navigate to Your Desired Directory: Use the cd command to navigate to the directory where you want to clone the repository. For example: "cd path/to/your/directory"
+
+5. Run the Clone Command: Use the git clone command followed by the repository URL. For example: "git clone https://github.com/username/repository.git"
+
+6. Enter the Directory: After cloning, navigate into the new directory created for the repository: "cd repository"
+
+And that's it! You've successfully cloned the repository. You can now start working with the files locally.
+
+### Usage Information:
+
+1. Navigate the Directory, Change into the project directory: "cd repository"
+
+2. Making Changes, To create a new branch for your changes: "git checkout -b my-feature-branch"
+
+3. Committing Changes, Add your changes and commit: "git add ." "git commit -m "Description of changes"
+
+4. Pushing Changes, Push your branch to GitHub: "git push origin my-feature-branch"
+
+5. Creating a Pull Request, Go to the GitHub page of the repository to create a pull request from your branch.
+
+This section provides clear, essential commands for working with a GitHub repository!
